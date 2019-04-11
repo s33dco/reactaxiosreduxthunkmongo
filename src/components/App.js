@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import NewPost from './components/NewPost';
-
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import NewPost from './NewPost';
+import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
   render() {
